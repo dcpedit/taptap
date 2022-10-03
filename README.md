@@ -1,4 +1,7 @@
 # TapTap
+
+<img width="300" alt="TapTap" src="https://user-images.githubusercontent.com/800930/193505033-127e76e2-4d24-46dd-82c3-88d52f07c344.png">
+
 TapTap is a solenoid breakout board for those who are interested in adding a solenoid to their existing project.  All you need are the following components, and an extra data pin on your microcontroller.
 
 | Component              | Qty | Notes |
