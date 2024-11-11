@@ -11,6 +11,10 @@ TapTap is a solenoid breakout board for those who are interested in adding a sol
 | 2.2K resistor          | 1   | [Link](https://www.mouser.com/ProductDetail/Vishay-BC-Components/MBA02040C2201FRP00?qs=xrHRiZ6CCZBgw9ermhhPGg%3D%3D&countryCode=US&currencyCode=USD)
 | 5V solenoid            | 1   | [Link](https://www.mouser.com/ProductDetail/SparkFun/ROB-11015?qs=WyAARYrbSnb40pNKVm6nzg%3D%3D&mgh=1&gclid=CjwKCAjw7eSZBhB8EiwA60kCWzuptoTvtKnuIf080uSxeGzK6HKDzFasQVXGcZVyhToXtIho5E1QCRoCD08QAvD_BwE)
 
-Here's an example of how I used one in a QAZer Beam (https://github.com/ImYourHuckleberry/QAZER_BEAM)
+Here's an example of how I used one in a [QAZer Beam](https://github.com/ImYourHuckleberry/QAZER_BEAM)
 
 <img width="300" src="https://user-images.githubusercontent.com/800930/193505387-6b0f3d4c-919b-4e31-978c-3893a5508d9c.jpg">
+
+And another in my [Pillz Mod project](https://github.com/dcpedit/pillzmod)
+
+<img width="300" src="https://i.imgur.com/8C5Bwyj.jpeg">
